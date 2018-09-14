@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Android Release Testing</string>
     <string name="first_feature">First feature!</string>
+    <string name="second_feature">Second feature!</string>
 </resources>

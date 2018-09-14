@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         textViewHelloWorld.text = getString(R.string.first_feature)
         Log.d("MainActivity", "First feature...")
+
+        Log.d("MainActivity", "second feature!")
     }
 }
